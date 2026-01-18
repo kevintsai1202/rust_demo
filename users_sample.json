@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "username": "rust_guru",
+        "email": "guru@rust-lang.org"
+    },
+    {
+        "id": 2,
+        "username": "api_client",
+        "email": "client@example.com"
+    }
+]
